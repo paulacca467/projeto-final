@@ -1,4 +1,4 @@
 # projeto-final
-Projeto final do curso de verão intro python analise de dados
+Projeto final do Curso de Verão intro Python para análise de dados
 
-Neste projeto utilizei a base de dados (...) baixada do site Kaggle. 
+Neste projeto utilizei a base de dados "Beaches Water Quality in São Paulo, Brazil", baixada do site Kaggle. 
